@@ -1,5 +1,7 @@
 # ImageFilter-C
 
+Note: This project was the 2nd project out of 6, which I had to build to pass a course(Programming 2) - I took in Saarland University (Bachelors of Computer Science)
+
 ## Introduction
 The name of this project is inspired by the open source project `convert`, a command line tool for image manipulation. As the original `convert` project contains very extensive work, the version you have to implement only covers a fraction of `convert`’s features. The selected tasks are 
 1) reading and writing images,
